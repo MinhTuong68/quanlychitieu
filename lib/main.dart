@@ -25,7 +25,7 @@ class HelloScreen extends StatelessWidget {
     return const Scaffold(
       body: Center(
         child: Text(
-          'Hello Phung Minh Teo 👋',
+          'Hello Quách Thanh Tèo 👋',
           style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold),
         ),
       ),
